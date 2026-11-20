@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # travel_dna
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tour_guide
+>>>>>>> 0a7acb4f0d9d248ce97db2df5879dffe5801259d
